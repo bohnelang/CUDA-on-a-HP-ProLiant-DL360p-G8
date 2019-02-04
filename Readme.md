@@ -60,3 +60,8 @@ HP ProLiant DL360 Generation 8 (G8) (https://h20195.www2.hpe.com/v2/getdocument.
 - PCIe 3.0  x16 expansion slot (Full-height / half-length)
 - PCIe 3.0  x8  expansion slot (Low Profile)
 
+### ------------------------------------------
+
+Could work - not tested:
+
+- HP NVIDIA GeForce GT 730 2GB PCIe x8 GFX (http://www8.hp.com/at/de/products/oas/product-detail.html?oid=8410036)
