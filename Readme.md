@@ -55,6 +55,7 @@ We did not use or test the display port!
 
 QuickSpecs
 HP ProLiant DL360 Generation 8 (G8) (https://h20195.www2.hpe.com/v2/getdocument.aspx?docname=c04128242)
+
 - PCIe 3.0  x16 expansion slot (Full-height / half-length)
 - PCIe 3.0  x8  expansion slot (Low Profile)
 
