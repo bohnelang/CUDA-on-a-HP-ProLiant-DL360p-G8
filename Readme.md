@@ -3,8 +3,9 @@
 We tested two ways to use a Nvidia compatible GPU card in a HP ProLiant DL 360 rackmount server for number crunching with Cuda. 
 
 The challange was to find:
-1) a low (not low profile) card with only 1 PCI slot high
-2) a low power consuming card that take its power via PCI bus and do not need extra power plug
+1) a low (not low profile) card with only 1 PCI slot high (with a cooler  not higher than one slot)
+2) a card that fits in full-height and half-length slot
+3) a low power consuming card that take its power via PCI bus and do not need extra power plug
  
 
 ### ------------------------------------------
