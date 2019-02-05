@@ -11,13 +11,13 @@ The challange was to find:
 ### ------------------------------------------
 
 ## MSI GeForce GT 1030
-First we use a very cheap card (MSI GeForce GT 1030 with 384 cuda cores) that was working fine. We are useing Linux and mathlab.
+First we use a very cheap card (MSI GeForce GT 1030 with 384 cuda cores) that was working fine. We are using Linux and mathlab.
 This card can be used without modifications. 
 
 MSI GeForce GT 1030:
 - 384 CUDA Cores
 - 2GB 64-Bit DDR4
-- PCI Express 3.0 x16 (Uses x4)
+- PCIe 3.0 x16 (Uses x4)
 - Maximum Power Consumption 	30 W
 
 ![MSI GeForce GT 1030 view from top](IMG-20180925-WA0009.jpg)
@@ -34,7 +34,7 @@ With a grant from Nvidia to one of our research group  we could use a NVIDIA Qua
 NVIDIA Quadro P2000: 
 - CUDA Cores 	1024
 - GPU Memory 	5 GB GDDR5	
-- System Interface 	PCI Express 3.0 x16
+- System Interface 	PCIe 3.0 x16
 - Maximum Power Consumption 	75 W
 
 ![MSI GeForce GT 1030 side view](IMG-20181017-WA0001.jpg)
@@ -62,6 +62,12 @@ HP ProLiant DL360 Generation 8 (G8) (https://h20195.www2.hpe.com/v2/getdocument.
 
 ### ------------------------------------------
 
-Could work - not tested:
+Should work - not tested:
 
-- HP NVIDIA GeForce GT 730 2GB PCIe x8 GFX (http://www8.hp.com/at/de/products/oas/product-detail.html?oid=8410036)
+HP NVIDIA GeForce GT 730 2GB PCIe x8 GFX (e.G. http://www8.hp.com/at/de/products/oas/product-detail.html?oid=8410036)
+- 384 CUDA Cores
+- 2GB 64-Bit DDR4
+- PCIe 2.0 x8 
+- Maximum Power Consumption 	23 W
+(This card uses the x8 PCI-Slot and may be used parallel to a  GeForce GT 1030 card - not tested) 
+
