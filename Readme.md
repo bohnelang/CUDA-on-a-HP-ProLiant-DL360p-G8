@@ -63,6 +63,7 @@ HP ProLiant DL360 Generation 8 (G8) (https://h20195.www2.hpe.com/v2/getdocument.
 ### ------------------------------------------
 
 Could work - not tested:
+
 Inno3D GeForce GTX 1050Ti 1-Slot Ed. 4GB GDDR5
 - CUDA Cores 	768
 - GPU Clock 	1290 / 1392 MHz
