@@ -62,7 +62,15 @@ HP ProLiant DL360 Generation 8 (G8) (https://h20195.www2.hpe.com/v2/getdocument.
 
 ### ------------------------------------------
 
-Should work - not tested:
+Could work - not tested:
+Inno3D GeForce GTX 1050Ti 1-Slot Ed. 4GB GDDR5
+- CUDA Cores 	768
+- GPU Clock 	1290 / 1392 MHz
+- Memory Clock 	7000 MHz
+- Memory Size 	4 GB GDDR5
+- Memory Interface 	128-bit
+- Bus Interface 	PCI Express 3.0
+
 
 HP NVIDIA GeForce GT 730 2GB PCIe x8 GFX (e.G. http://www8.hp.com/at/de/products/oas/product-detail.html?oid=8410036)
 - 384 CUDA Cores
@@ -70,4 +78,5 @@ HP NVIDIA GeForce GT 730 2GB PCIe x8 GFX (e.G. http://www8.hp.com/at/de/products
 - PCIe 2.0 x8 
 - Maximum Power Consumption 	23 W
 (This card uses the x8 PCI-Slot and may be used parallel to a  GeForce GT 1030 card - not tested) 
+
 
