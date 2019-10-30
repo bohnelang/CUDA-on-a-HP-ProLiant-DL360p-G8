@@ -14,7 +14,7 @@ The challange was to find:
 First we use a very cheap card (MSI GeForce GT 1030 with 384 cuda cores) that was working fine. We are using Linux and mathlab.
 This card can be used without modifications. 
 
-MSI GeForce GT 1030:
+MSI GeForce GT 1030 (e.G.: https://www.amazon.de/dp/B07D9MQDP4/):
 - 384 CUDA Cores
 - 2GB 64-Bit DDR4
 - PCIe 3.0 x16 (Uses x4)
