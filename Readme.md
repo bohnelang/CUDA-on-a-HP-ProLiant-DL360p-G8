@@ -31,7 +31,7 @@ With a grant from Nvidia to one of our research group  we could use a NVIDIA Qua
 
 **WARNING: You need to modifiy the hood cover and remove the the opener. Maybe you lose your warranty!**
 
-NVIDIA Quadro P2000: 
+NVIDIA Quadro P2000 (e.G.: https://www.amazon.de/dp/B06XB7PFLD): 
 - CUDA Cores 	1024
 - GPU Memory 	5 GB GDDR5	
 - System Interface 	PCIe 3.0 x16
@@ -64,7 +64,7 @@ HP ProLiant DL360 Generation 8 (G8) (https://h20195.www2.hpe.com/v2/getdocument.
 
 Could work - not tested:
 
-Inno3D GeForce GTX 1050Ti 1-Slot Ed. 4GB GDDR5 (e.G. https://www.amazon.de/Inno3D-GeForce-1050Ti-1-Slot-Grafikkarte/dp/B07FNTWMS2)
+Inno3D GeForce GTX 1050Ti 1-Slot Ed. 4GB GDDR5 (e.G. https://www.amazon.de/dp/B07FNTWMS2)
 - CUDA Cores 	768
 - GPU Clock 	1290 / 1392 MHz
 - Memory Clock 	7000 MHz
