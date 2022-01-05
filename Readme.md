@@ -72,7 +72,7 @@ Inno3D GeForce GTX 1050Ti 1-Slot Ed. 4GB GDDR5 (e.G. https://www.amazon.de/dp/B0
 
 
 
-HP NVIDIA GeForce GT 730 2GB PCIe x8 GFX (e.G. http://www8.hp.com/at/de/products/oas/product-detail.html?oid=8410036)
+HP NVIDIA GeForce GT 730 2GB PCIe x8 GFX (e.G. https://www.amazon.de/HP-Nvidia-PCIe-Graphics-Card/dp/B06X92G36L)
 - 384 CUDA Cores
 - 2GB 64-Bit DDR4
 - PCIe 2.0 x8 
