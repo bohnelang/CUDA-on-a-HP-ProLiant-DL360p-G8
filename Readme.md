@@ -71,6 +71,12 @@ Inno3D GeForce GTX 1050Ti 1-Slot Ed. 4GB GDDR5 (e.G. https://www.amazon.de/dp/B0
 - Maximum Power Consumption 75W
 
 
+NVIDIA Quadro P2200 5GB GDDR5 PCIe 3.0 (https://www.amazon.de/dp/B07T5XCB2N)
+- CUDA Cores 	1280
+- GPU Memory 	5 GB GDDR5
+- System Interface 	PCI Express 3.0
+- Maximum Power Consumption 75 Watt
+
 
 HP NVIDIA GeForce GT 730 2GB PCIe x8 GFX (e.G. https://www.amazon.de/HP-Nvidia-PCIe-Graphics-Card/dp/B06X92G36L)
 - 384 CUDA Cores
