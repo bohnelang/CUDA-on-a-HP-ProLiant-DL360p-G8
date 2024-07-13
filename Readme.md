@@ -6,7 +6,8 @@ The challange was to find:
 1) a low (not low profile) card with only 1 PCI slot high (with a cooler  not higher than one slot)
 2) a card that fits in full-height and half-length slot
 3) a low power consuming card that take its power via PCI bus and do not need extra power plug
- 
+
+ ![> See my other project with NVIDIA TESLA M4 GPU cards](https://github.com/bohnelang/HP-Proliant-Server-with-NVIDIA-GPU-Tesla-P4-M4-T4/tree/main)
 
 ### ------------------------------------------
 
