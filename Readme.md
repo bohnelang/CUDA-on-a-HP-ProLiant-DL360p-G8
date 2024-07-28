@@ -71,6 +71,11 @@ NVIDIA Quadro P2200 5GB GDDR5 PCIe 3.0 (e.G. https://www.amazon.de/dp/B07T5XCB2N
 - System Interface 	PCI Express 3.0
 - Maximum Power Consumption 75 Watt
 
+NVIDIA T1000 8GB GDDR6 (https://www.amazon.de/dp/B09SL2HV5L/)
+- CUDA Cores 	896
+- GPU Memory 	8 GB
+- System Interface 	PCI Express 3.0
+- Maximum Power Consumption 50 Watt
 
 Inno3D GeForce GTX 1050Ti 1-Slot Ed. 4GB GDDR5 (e.G. https://www.amazon.de/dp/B07FNTWMS2)
 - CUDA Cores 	768
