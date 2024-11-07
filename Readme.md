@@ -65,6 +65,12 @@ HP ProLiant DL360 Generation 8 (G8) (https://h20195.www2.hpe.com/v2/getdocument.
 
 Could work - not tested:
 
+PNY NVIDIA RTX 2000E 16GB (https://www.pny.com/en-eu/rtx-2000e-ada-generation) 
+- CUDA Cores 2816
+- GPU Memory 16GB GDDR6 with ECC
+- System Interface 	PCI Express 4.0
+- Maximum Power Consumption 50W
+
 NVIDIA Quadro P2200 5GB GDDR5 PCIe 3.0 (e.G. https://www.amazon.de/dp/B07T5XCB2N)
 - CUDA Cores 	1280
 - GPU Memory 	5 GB GDDR5
