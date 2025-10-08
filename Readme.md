@@ -74,6 +74,7 @@ PNY NVIDIA Tesla T4 (https://www.amazon.de/dp/B07QF9MJFR)
 
 PNY NVIDIA RTX 2000E 16GB (https://www.pny.com/en-eu/rtx-2000e-ada-generation) 
 - CUDA Cores 2816
+- Tensor Cores 88
 - GPU Memory 16GB GDDR6 with ECC
 - System Interface 	PCI Express 4.0
 - Maximum Power Consumption 50W
