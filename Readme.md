@@ -65,13 +65,6 @@ HP ProLiant DL360 Generation 8 (G8) (https://h20195.www2.hpe.com/v2/getdocument.
 
 Could work - not tested:
 
-PNY NVIDIA Tesla T4 (https://www.amazon.de/dp/B07QF9MJFR)
-- CUDA Cores 2560
-- Tensor Cores 320
-- GPU Memory 16GB GDDR6 
-- System Interface 	PCI Express 3.0
-- Maximum Power Consumption 70W
-
 PNY NVIDIA RTX 2000E 16GB (https://www.pny.com/en-eu/rtx-2000e-ada-generation) 
 - CUDA Cores 2816
 - Tensor Cores 88
